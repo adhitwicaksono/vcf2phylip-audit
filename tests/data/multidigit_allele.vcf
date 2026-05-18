@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##source=vcf2phylip-audit-synthetic
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	Sample_10
+chrX	100	.	A	C,G,T,C,G,T,C,G,T,C	99	PASS	.	GT	10/10
